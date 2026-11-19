@@ -10,3 +10,5 @@ function Header({usuario}){
         </header>
     )
 }
+
+export default Header
