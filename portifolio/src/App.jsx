@@ -1,3 +1,6 @@
+import Header from "./components/Header/Header"
+import hero
+
 function App() {
 
   return (

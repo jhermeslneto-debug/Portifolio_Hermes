@@ -1,8 +1,8 @@
 export const perfil = {
     nome: "José Hermes",
-    usuario: "José",
+    usuario: "Hermes",
     cargo: "Estudante",
     cidade: "Cruz das Almas",
     email: "jhermeslneto@gmail.com",
-    resumo: "Estou aprendendo etc etc etc"
+    resumo: "Estou aprendendo HTML,CSS,JS"
 }
